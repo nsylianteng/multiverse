@@ -433,6 +433,7 @@ textarea {
 .text {
   display: inline-block;
   max-width: 800px;
+
 }
 
 .title {
@@ -452,6 +453,18 @@ textarea {
   margin-top: 40px;
 }
 
+<<<<<<< HEAD
+=======
+.title {
+  font-size: 2.5em;
+}
+
+.byline {
+  font-size: 1.8em;
+  margin-top: -20px;
+}
+
+>>>>>>> master
 .gumroad-button {
   margin-bottom: 100px;
 }
@@ -490,7 +503,6 @@ textarea {
 
     .story {
       float: left;
-      line-height: 1.5em;
       font-size: 1.25em;
       margin-top: 25px;
       text-align: left;
