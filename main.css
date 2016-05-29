@@ -436,6 +436,16 @@ textarea {
 
 }
 
+.title {
+  font-size: 2.3em;
+}
+
+
+.byline {
+  font-size: 1.8em;
+}
+
+
 .story {
   line-height: 1.5em;
   font-size: 2em;
@@ -443,20 +453,21 @@ textarea {
   margin-top: 40px;
 }
 
+<<<<<<< HEAD
+=======
 .title {
-  font-size: 2.2em;
+  font-size: 2.5em;
 }
 
 .byline {
   font-size: 1.8em;
-  margin-top: -15px;
+  margin-top: -25px;
 }
 
+>>>>>>> master
 .gumroad-button {
   margin-bottom: 100px;
 }
-
-
 
 
 @media only screen
