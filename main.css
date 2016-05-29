@@ -443,7 +443,12 @@ textarea {
   margin-top: 40px;
 }
 
+.title {
+  font-size: 2.2em;
+}
+
 .byline {
+  font-size: 1.8em;
   margin-top: -15px;
 }
 
