@@ -445,6 +445,9 @@ textarea {
   font-size: 1.8em;
 }
 
+.byline a {
+  text-decoration: none;
+}
 
 .story {
   line-height: 1.5em;
