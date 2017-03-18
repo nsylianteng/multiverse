@@ -448,6 +448,7 @@ textarea {
 
 .byline a {
   text-decoration: none;
+  color: inherit;
 }
 
 .story {
