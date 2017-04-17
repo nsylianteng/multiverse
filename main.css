@@ -442,7 +442,7 @@ textarea {
 
 
 .byline {
-  font-size: 1.8em;
+  font-size: 1.5em;
   margin-top: -25px;
 }
 
@@ -502,7 +502,6 @@ textarea {
 
     .byline {
       margin-top: -25px;
-      font-size: 1.8em;
     }
     
     .gumroad-button {
