@@ -459,7 +459,7 @@ textarea {
   margin-bottom: 100px;
 }
 
-.gumroad-button {
+.gumroad-button a {
   margin-bottom: 0px;
 }
   
@@ -505,7 +505,7 @@ textarea {
       font-size: 1.8em;
     }
     
-    .gumroad-button {
+    .gumroad-button a {
       margin-bottom: 0px;
     }
 
