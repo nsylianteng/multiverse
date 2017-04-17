@@ -460,7 +460,8 @@ textarea {
 }
 
 .gumroad-button {
-  margin-bottom: 0px;
+  margin-bottom: 13px;
+  margin-top: -10px;
 }
   
 
@@ -503,9 +504,6 @@ textarea {
     .byline {
       margin-top: -25px;
     }
-    
-    .gumroad-button {
-      margin-bottom: 0px;
-    }
+   
 
   }
