@@ -506,5 +506,9 @@ textarea {
       font-size: 1.5em;
     }
    
+    .gumroad-button {
+      margin-bottom: 13px;
+      margin-top: -10px;
+    }
 
   }
